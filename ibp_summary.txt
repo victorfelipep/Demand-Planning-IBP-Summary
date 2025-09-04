@@ -1,0 +1,49 @@
+📊 IBP Meeting Summary – Top L5 Absolute Errors
+
+1. FFL – Isqueiros (H45)
+
+Erro absoluto: 900k (Forecast: 2.2M | Real: 3.1M)
+
+Motivo identificado: Clima frio impulsionou maior consumo de isqueiros.
+
+Discussão: Rever premissas climáticas no modelo de previsão, incluir variáveis meteorológicas sazonais e validar plano de abastecimento para meses frios.
+
+2. HE – Papelaria (A12)
+
+Erro absoluto: 700k (Forecast: 2.5M | Real: 3.2M)
+
+Motivo identificado: Promoção especial no Dia do Estudante.
+
+Discussão: Incluir calendário promocional e campanhas institucionais no processo de previsão; reforçar alinhamento com equipe de Marketing.
+
+3. HE – Papelaria (D78)
+
+Erro absoluto: 650k (Forecast: 1.2M | Real: 1.85M)
+
+Motivo identificado: Lançamento de nova linha colorida.
+
+Discussão: Ajustar processo de lançamento de novos produtos para capturar impacto na demanda logo na introdução; trabalhar histórico de lançamentos similares como referência.
+
+4. BE – Shavers (M34)
+
+Erro absoluto: 500k (Forecast: 2.8M | Real: 3.3M)
+
+Motivo identificado: Novo modelo com tecnologia diferenciada.
+
+Discussão: Necessidade de comunicação prévia de lançamentos entre P&D, Marketing e Demand Planning para mitigar erros de forecast.
+
+5. HE – Papelaria (N56)
+
+Erro absoluto: 500k (Forecast: 1.95M | Real: 2.45M)
+
+Motivo identificado: Retomada das aulas presenciais.
+
+Discussão: Considerar cenários macro (educação, calendário escolar) nas premissas de previsão; revisar elasticidade em categorias ligadas a back-to-school.
+
+🔑 Pontos-Chave para a Reunião
+
+Eventos externos (clima, retomada escolar, promoções) tiveram impacto direto nos maiores desvios → reforça a necessidade de integrar variáveis externas no modelo.
+
+Lançamentos de produtos continuam sendo fonte relevante de erro → sugere criação de um processo estruturado de “New Product Forecasting”.
+
+Reforçar alinhamento entre Marketing, Comercial e Planejamento no ciclo S&OP para mitigar erros futuros.
